@@ -1,4 +1,7 @@
-
+...
+"dependencies": {
+    "express": "^4.16.4"
+  }
 {
   "name": "express-for-beginners",
   "version": "1.0.0",
